@@ -3,7 +3,7 @@
 <img width="1280" height="720" alt="data_modeling_powerbi" src="https://github.com/user-attachments/assets/876145c9-263d-46ef-93a5-99e466f6e0f0" />
 
 
-Lien de la vidéo YouTube :
+Lien de la vidéo YouTube : https://youtu.be/lwqovDQvAqw
 
 Dans ce tutoriel **Power BI**, je te montre **comment créer un modèle de données fiable et professionnel** en suivant une **bonne pratique BI essentielle** :
 👉 utiliser **une vue SQL unique (avec CTE)** comme source de données pour Power BI.
